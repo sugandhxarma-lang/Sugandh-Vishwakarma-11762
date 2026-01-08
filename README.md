@@ -45,5 +45,6 @@ int main() {
     return 0;
 }
 🧪 Sample Output
-<img width="959" height="503" alt="image" src="https://github.com/user-attachments/assets/4d921a38-fea9-4c17-8cda-1ccbef9a4f10" />
+<img width="1910" height="1010" alt="Screenshot 2026-01-08 182907" src="https://github.com/user-attachments/assets/2636bd35-a7bc-4903-8494-8f83944b2ebe" />
+
 
